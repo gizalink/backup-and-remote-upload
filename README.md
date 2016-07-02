@@ -1,4 +1,4 @@
-# backup-and-remote-upload
+# Backup file and remote upload file via FTP
 Script is backup compress file and export mysql. Then, upload file backup to remote server via FTP
 
 Install:
